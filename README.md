@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I have a band https://open.spotify.com/artist/0ksmNrGs9Y3T2V80rwYzAz?si=v9RXBTplTQ2aztS40HRwqw**
 
+- 🎸 https://theriffalong.com/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas turra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas turra" height="30" width="40" /></a>
